@@ -15,12 +15,16 @@
 </a>
 </br>
 </br>
-
+</br>
 - 🔭 I’m currently working on Reducing accident casualties using IoT
 - 🌱 I’m currently learning Data Science foundations using R
 
+</br>
+</br>
+</br>
+
 [![Twitter: njuguna_me](https://img.shields.io/twitter/follow/njuguna_me?style=social)](https://twitter.com/njuguna_me)
-[![Linkedin: Eric Njuguna](https://img.shields.io/badge/-eric-njuguna-a17a61136-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-njuguna-a17a61136/)](https://www.linkedin.com/in/eric-njuguna-a17a61136/)
+[![Linkedin: eric-njuguna-a17a61136](https://img.shields.io/badge/-eric-njuguna-a17a61136-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-njuguna-a17a61136/)](https://www.linkedin.com/in/eric-njuguna-a17a61136/)
 [![GitHub enjuguna](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/enjuguna)
 
 
