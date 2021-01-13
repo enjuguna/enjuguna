@@ -1,6 +1,6 @@
 ### Hi, I'm Eric Njuguna 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
 
 
 
