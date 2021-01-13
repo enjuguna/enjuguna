@@ -24,8 +24,11 @@
 </br>
 
 [![Twitter: njuguna_me](https://img.shields.io/twitter/follow/njuguna_me?style=social)](https://twitter.com/njuguna_me)
-[![Linkedin: eric-njuguna-a17a61136](https://img.shields.io/badge/-eric-njuguna-a17a61136-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-njuguna-a17a61136/)](https://www.linkedin.com/in/eric-njuguna-a17a61136/)
 [![GitHub enjuguna](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/enjuguna)
+
+</br>
+
+**Languages and Tools:**  
 
 
 
