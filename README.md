@@ -11,22 +11,19 @@
   <img align="left" alt="Eric's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://instagram.com/njuguna.me/">
-  <img align="left" alt="Pawan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 </br>
 </br>
 
+- 🔭 I’m currently working on Reducing accident casualties using IoT
+- 🌱 I’m currently learning Data Science foundations using R
+
 [![Twitter: njuguna_me](https://img.shields.io/twitter/follow/njuguna_me?style=social)](https://twitter.com/njuguna_me)
+[![Linkedin: Eric Njuguna](https://img.shields.io/badge/-eric-njuguna-a17a61136-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-njuguna-a17a61136/)](https://www.linkedin.com/in/eric-njuguna-a17a61136/)
+[![GitHub enjuguna](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/enjuguna)
 
 
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: T
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
