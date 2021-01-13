@@ -40,10 +40,10 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjuguna&layout=compact)](https://github.com/enjuguna/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
 <a href="https://github.com/enjuguna">
   
-[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&layout=compact)](https://github.com/enjuguna/github-readme-stats)
+[![Eric's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
 
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=enjuguna&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
 </a>
