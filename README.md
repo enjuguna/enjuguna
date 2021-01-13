@@ -16,7 +16,7 @@
 </br>
 </br>
 </br>
-- 🔭 I’m currently working on Reducing accident casualties using IoT
+- 🔭 I’m currently working on Reducing accident casualties using IoT </br>
 - 🌱 I’m currently learning Data Science foundations using R
 
 </br>
