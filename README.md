@@ -1,4 +1,6 @@
-# Hi, I'm Eric Njuguna 👋
+![Header](https://github.com/enjuguna/enjuguna/blob/main/Eric%20Header.png)
+
+## Hi, I'm Eric Njuguna 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
 <a href="https://twitter.com/njuguna_me">
