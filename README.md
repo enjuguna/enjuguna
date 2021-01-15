@@ -1,4 +1,4 @@
-![Header](https://github.com/enjuguna/enjuguna/blob/main/Eric%20Header%20(1).png)
+![Header](https://github.com/enjuguna/enjuguna/blob/main/Eric%20Header%20(2).png)
 
 ## Hi, I'm Eric Njuguna 👋
 
