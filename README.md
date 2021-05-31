@@ -18,8 +18,8 @@
 </br>
 </br>
 </br>
-- 🔭 I’m currently researching on Reducing accident casualties using IoT </br>
-- 🌱 Currently learning Data Science foundations using R
+- 🔭 Software Developer </br>
+- 🌱 Frequently learning to improve my craft
 
 </br>
 </br>
