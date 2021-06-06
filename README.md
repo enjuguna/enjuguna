@@ -42,8 +42,6 @@
 </br>
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
-<a href="https://github.com/enjuguna">
   
 [![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
 
