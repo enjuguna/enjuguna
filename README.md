@@ -1,49 +1,51 @@
-![Header](https://github.com/enjuguna/enjuguna/blob/main/Eric%20Header%20(3).png)
+# Hi, I'm Eric Kariuki 👋
 
-## Hi, I'm Eric Njuguna 👋
+**Solutions Architect & Software Engineer**  
+Building scalable solutions and empowering teams to create a better Kenya 🇰🇪
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=enjuguna&label=Views&color=blue&style=plastic" alt="enjuguna" /> </p>
-<a href="https://twitter.com/njuguna_me">
-  <img align="left" alt="Eric's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/eric-njuguna-a17a61136/">
-  <img align="left" alt="Eric's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/enjuguna">
-  <img align="left" alt="Eric's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/njuguna.me/">
-  <img align="left" alt="Eric's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-</br>
-</br>
-</br>
-- 🔭 Software Developer </br>
-- 🌱 Frequently learning to improve my craft
+---
 
-</br>
-</br>
-</br>
+## 🚀 About Me
 
-[![Twitter: njuguna_me](https://img.shields.io/twitter/follow/njuguna_me?style=social)](https://twitter.com/njuguna_me)
-[![GitHub enjuguna](https://img.shields.io/github/followers/enjuguna?label=follow&style=social)](https://github.com/enjuguna)
+- 💡 Passionate about architecting modern web applications and cloud solutions
+- 🛠️ Experienced in React, TypeScript, Node.js, and cloud platforms
+- 👨‍💻 Advocate for clean code, developer experience, and continuous learning
+- 🌍 Focused on impactful projects for Africa and beyond
 
-</br>
+---
 
-**Languages and Tools:**  
+## 🧰 Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=flat)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white&style=flat)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+![shadcn/ui](https://img.shields.io/badge/-shadcn/ui-000?style=flat)
+![Bun](https://img.shields.io/badge/-Bun-000?logo=bun&logoColor=white&style=flat)
 
-</br>
-</br>
+---
 
-  
-[![Eric's wakatime stats ](https://github-readme-stats.vercel.app/api/wakatime?username=enjuguna&theme=dark&layout=compact)](https://github.com/enjuguna/github-readme-stats)
+## 🏆 Featured Projects
 
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=enjuguna&show_icons=true&theme=dark&line_height=27" alt="Eric's's github stats"/>
-</a>
+- **Personal Portfolio:**  
+  Modern, responsive site showcasing my experience, skills, and projects.  
+  _[View Source](https://github.com/enjuguna/eric-kariuki-portfolio)_
+
+- **[Add your other key projects here, with a short description and link]**
+
+---
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/ericnuguna/)
+- [Twitter](https://twitter.com/yourhandle) <!-- Replace with your actual handle -->
+- [Email](mailto:your.email@example.com) <!-- Replace with your actual email -->
+
+---
+
+> “Supporting the efforts to build a better Kenya.” 🇰🇪
+
+---
+
+**_Thanks for visiting my profile!_**
